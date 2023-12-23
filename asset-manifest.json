@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zen_trades_task2/static/css/main.11dcb88d.css",
+    "main.js": "/zen_trades_task2/static/js/main.c52d1b21.js",
+    "static/js/787.3f20d3a4.chunk.js": "/zen_trades_task2/static/js/787.3f20d3a4.chunk.js",
+    "static/media/logo.svg": "/zen_trades_task2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zen_trades_task2/index.html",
+    "main.11dcb88d.css.map": "/zen_trades_task2/static/css/main.11dcb88d.css.map",
+    "main.c52d1b21.js.map": "/zen_trades_task2/static/js/main.c52d1b21.js.map",
+    "787.3f20d3a4.chunk.js.map": "/zen_trades_task2/static/js/787.3f20d3a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11dcb88d.css",
+    "static/js/main.c52d1b21.js"
+  ]
+}
